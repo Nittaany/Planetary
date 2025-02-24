@@ -1,38 +1,115 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🌌 Planetary - Explore the Wonders of Space 🚀
 
-## Getting Started
+Welcome to **Planetary**, your gateway to an immersive space exploration experience. This web app brings the cosmos closer by providing fascinating features powered by **NASA APIs** and **AI-driven insights**. 🌠
 
-First, run the development server:
+---
+
+## 📸 Previews
+
+![Homepage Preview](https://drive.google.com/uc?export=view&id=13NeSwtMYQmKsNDjbahwUfCQOjE_4NYcx)
+
+## 🌍 Live Demo
+
+🔗 **[Visit Planetary WebApp](https://planetary-webapp.vercel.app/)**
+
+---
+
+## ✨ Features
+
+### 🪐 Cosmic Incarnation
+
+🔭 **Explore the universe on your birth date!**
+
+- View breathtaking **astronomical events and celestial objects** from your birth date using **NASA’s API**.
+- Gain a **personalized cosmic experience** with mesmerizing space imagery.
+- Discover how the **universe looked on the day you were born!**
+
+![ Preview](https://drive.google.com/uc?export=view&id=1bS_b8j7B22Y9iAWUBp_BbjpPZql_l0RE)
+
+[🚀 Try it Out](https://planetary-webapp.vercel.app)
+
+---
+
+### ☄️ Asteroid Proximity Monitor
+
+🛰️ **Track Near-Earth Objects (NEOs) in real time!**
+
+- Stay informed about the latest **asteroids approaching Earth**.
+- Get a **comprehensive list of potential threats** detected by NASA.
+- Ideal for **astronomy enthusiasts and space safety researchers**.
+
+[🌍 Check it Out](https://planetary-webapp.vercel.app)
+
+---
+
+### 🔥 Wildfire Prediction (AI-Powered)
+
+🌲 **An AI-driven wildfire detection system**
+
+- Uses **Deep Learning (CNNs)** to analyze satellite images.
+- Detects and classifies **forest fires** in remote areas.
+- Aims to **prevent environmental damage** with real-time predictions.
+
+[🌋 See it in Action](https://planetary-webapp.vercel.app)
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript, Next.js
+- **Backend:** Node.js, Express
+- **Database:** MySQL
+- **APIs Used:** NASA API, Custom AI Models (Wildfire Detection)
+- **Hosting:** Vercel
+
+---
+
+## 🚀 Getting Started
+
+### **🔹 Clone the Repository**
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+   git clone https://github.com/nittaany/Planetary.git
+   cd Planetary
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### **🔹 Install Dependencies**
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+```bash
+   npm install
+```
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+### **🔹 Run Locally**
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+```bash
+   npm run dev
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### **🔹 Build for Production**
 
-## Learn More
+```bash
+   npm run build
+   npm start
+```
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 📌 Notes
 
-## Deploy on Vercel
+- The project is **integrated with NASA’s APIs** to fetch real-time space data.
+- **AI-based wildfire detection** is implemented using trained **deep learning models**.
+- **Deployed on Vercel** for seamless access.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 💌 Connect
+
+Got feedback or suggestions? Feel free to reach out!
+
+- **LinkedIn** → [Your Profile](https://linkedin.com/in/satyam-c)
+
+---
+
+🌠 _Explore the cosmos with Planetary – because the universe is just a click away!_ 🚀
