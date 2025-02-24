@@ -2,6 +2,7 @@ import Image from "next/image";
 import stars from "../public/stars.jpg";
 import cosmic from "../public/cosmic.gif";
 import { useRouter } from "next/router";
+import Footer from "./footer";
 
 export default function Landing() {
   const router = useRouter();
@@ -159,6 +160,7 @@ export default function Landing() {
           </div>
         </div>
       </div>
+      <Footer/>
     </div>
   );
 }
