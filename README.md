@@ -1,5 +1,5 @@
 # 🌌 Planetary - Explore the Wonders of Space 🚀
-
+---
 Welcome to **Planetary**, your gateway to an immersive space exploration experience. This web app brings the cosmos closer by providing fascinating features powered by **NASA APIs** and **AI-driven insights**. 🌠
 
 ---
