@@ -6,7 +6,7 @@ Welcome to **Planetary**, your gateway to an immersive space exploration experie
 
 ## 📸 Previews
 
-![Homepage Preview](https://drive.google.com/uc?export=view&id=13NeSwtMYQmKsNDjbahwUfCQOjE_4NYcx)
+![Homepage Preview](https://drive.google.com/uc?export=view&id=1RsXrb5JPczkLs5eug5twRnZ7uOc4O5_T)
 
 ## 🌍 Live Demo
 
@@ -108,7 +108,7 @@ Welcome to **Planetary**, your gateway to an immersive space exploration experie
 
 Got feedback or suggestions? Feel free to reach out!
 
-- **LinkedIn** → [Your Profile](https://linkedin.com/in/satyam-c)
+- **LinkedIn** → [Reach ME!](https://linkedin.com/in/satyam-c)
 
 ---
 
